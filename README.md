@@ -1,9 +1,3 @@
-# SkyGroundReID
+# How to get the dataset?
 
-
-A SkyGroundReID dataset
-
-
-## How to get the dataset?
-
-In order to obtain the entire dataset, send email to **chenhx87[at]mail2[dot]sysu[dot]edu[dot]cn**
+If you need access to this dataset, please send a request email with the completed PDF attachment to **chenhx87[at]mail2[dot]sysu[dot]edu[dot]cn**.
